@@ -38,8 +38,10 @@ To make this model accessible and easy to use, I have deployed a simple Gradio a
 1. Clone the repository:
     ```bash
     git clone https://github.com/MRameezU/Food-101-Mini-Classification.git
-    cd your_repo_name
+    cd Food-101-Mini-Classification
     ```
+
+    
 
 2. Install the required dependencies:
     ```bash
