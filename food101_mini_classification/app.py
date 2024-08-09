@@ -20,6 +20,8 @@ effnetb2.load_state_dict(
     )
 )
 
+
+
 ### 3. Predict function ###
 def predict(img)->Tuple[Dict,float]:
   # start a timer
